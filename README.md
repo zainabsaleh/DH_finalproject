@@ -1,6 +1,6 @@
 ## WELCOME TO ADVANCED TOPICS IN DIGITAL HUMANITIES: THE FINAL PROJECT
 
-You can use the [editor on GitHub](https://github.com/zainabsaleh/DH_finalproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi everyone! My name is Zainab Saleh and I am a first year M.A. student at the University of Nebraska-Lincoln in Literary and Cultural Studies. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
