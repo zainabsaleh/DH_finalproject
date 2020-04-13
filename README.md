@@ -1,4 +1,4 @@
-## WELCOME TO ADVANCED TOPICS IN DIGITAL HUMANITIES
+## WELCOME TO ADVANCED TOPICS IN DIGITAL HUMANITIES: THE FINAL PROJECT
 
 You can use the [editor on GitHub](https://github.com/zainabsaleh/DH_finalproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
